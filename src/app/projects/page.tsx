@@ -31,9 +31,9 @@ const Projects = () => {
               />
               <Image
                 src={project.imageUrl}
-                width={36}
-                height={36}
-                className="w-9 h-9 rounded-lg"
+                width={48}
+                height={48}
+                className="w-12 h-12 rounded-lg"
                 alt={`Logo of ${project.title}`}
               />
               <div className="mt-6">
