@@ -54,7 +54,6 @@ public         → Static assets
 * Responsive design
 * Dark/Light mode support
 * Projects showcase
-* Blog & personal insights
 
 ---
 

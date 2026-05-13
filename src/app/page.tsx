@@ -22,26 +22,18 @@ const features = [
     className: "md:col-start-2 md:col-end-4 md:row-start-1 md:row-end-2",
   },
   {
-    iconName: "book-closed",
-    name: "Blog",
-    description:
-      "What I learn while growing as a developer.",
-    href: "/blog",
-    className: "row-start-2 row-end-3 col-start-1 col-end-3",
-  },
-  {
     iconName: "gear",
     name: "Gears",
     description: "My developer toolkit.",
     href: "/gears",
-    className: "col-start-1 col-end-2 row-start-3 row-end-4",
+    className: "col-start-1 col-end-2 row-start-2 row-end-3",
   },
   {
     iconName: "route",
     name: "Journey",
     description: "My journey into tech.",
     href: "/journey",
-    className: "col-start-2 col-end-3 row-start-3 row-end-4",
+    className: "col-start-2 col-end-3 row-start-2 row-end-3",
   },
   {
     iconName: "briefcase",

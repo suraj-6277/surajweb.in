@@ -35,7 +35,18 @@ export const journeyData: JourneyYear[] = [
       },
     ],
   },
- 
+    {
+      year: 2026,
+      events: [
+      {
+        title: "Image Compressor",
+        description:
+          "Developed an image compressor to reduce the size of images without compromising quality.",
+        imageURl: "/journey/image-compressor.jpeg",
+        url: "https://imagecompressor.surajweb.in",
+      },
+    ],
+  },
   {
     year: 2022,
     events: [
